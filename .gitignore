@@ -1,0 +1,12 @@
+# Credenciales
+firmware/**/secrets.h
+.env
+
+# Logs y salidas de ejecución
+*.log
+robot_log.txt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
